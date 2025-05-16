@@ -1,0 +1,22 @@
+KUND: Viktor
+Datum: 2025-05-16 17:34
+
+*FÖRUTSÄTTNINGAR SOLCELLER*
+Taktyp / Material: Betong
+Ålder på tak: 2005
+Total årsförbrukning: 15000
+Taklutning: 27
+Mark till fot?: 3,4
+Säker gård?: nej
+Organisationsnummer: -
+Kabeldimension: -
+Skuggning: yes
+Säkring (Amp): 25
+Laddbox (Elbil)?: yes
+Batteri?: nej
+Finansiering: ja
+Tidslinje: asap
+
+
+*FRITEXT*
+de vill ha solceller asap

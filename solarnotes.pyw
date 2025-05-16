@@ -51,7 +51,7 @@ Tidslinje: {data['Tidslinje?']}
     rapportruta.config(state="disabled")
 
     # Spara till fil
-    mappnamn = kundnamn.replace(" ", "_")
+    mappnamn = os.path.join("customers", kundnamn.replace(" ", "_"))
     os.makedirs(mappnamn, exist_ok=True)
     with open(os.path.join(mappnamn, "anteckningar.txt"), "w", encoding="utf-8") as f:
         f.write(rapport.strip())
