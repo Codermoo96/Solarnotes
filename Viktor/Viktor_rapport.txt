@@ -1,0 +1,10 @@
+Förutsättningar solceller:
+    Taktyp: Betongpannor
+    Ålder på tak: 25
+    Total Årsförbrukning: 14000
+    Taklutning: 27
+
+    Fritext:
+    Han vill ha en batterilösning och solpaneler
+
+    
